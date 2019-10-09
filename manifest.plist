@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://file.51itro.com/ishang/app/IOS/pic/icon57.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://file.51itro.com/ishang/app/IOS/pic/icon512.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
