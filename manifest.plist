@@ -11,25 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/liuyuxuan/APP/master/Baishua_new.ipa
-http://file.51itro.com/ishang/app/IOS/XiaoBei_OA.ipa
-</string>
+					<string>https://raw.githubusercontent.com/liuyuxuan/APP/master/Baishua_new.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>
-http://file.51itro.com/ishang/app/IOS/pic/icon57.png
-</string>
+					<string>http://file.51itro.com/ishang/app/IOS/pic/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>
-http://file.51itro.com/ishang/app/IOS/pic/icon512.png
-</string>
+					<string>http://file.51itro.com/ishang/app/IOS/pic/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
